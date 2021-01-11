@@ -1412,7 +1412,7 @@ body.author .blog-details-author {
   .servises-item:hover {
     background-color: #f7f9f9; }
     .servises-item:hover .servises-item__content .servises-text {
-      color: #acacac; }
+      color:#03091e; }
     .servises-item:hover .read-more i {
       color: #2f2c2c; }
   .servises-item .servises-item__thumb {
@@ -1426,7 +1426,7 @@ body.author .blog-details-author {
         font-size: 24px; } }
   .servises-item .servises-item__content .servises-text {
     margin-bottom: 30px;
-    color: #fff; }
+    color: #03091e; }
   .servises-item .read-more {
     border: none;
     margin: 0;
