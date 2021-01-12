@@ -461,6 +461,9 @@ input {
 .c-green {
   color: #3cb878 !important; }
 
+  .c-greenpro {
+    color: #aeda00 !important; }
+
 .c-orange {
   color: #fcb03b !important; }
 
@@ -469,6 +472,13 @@ input {
 
 .shadow-image {
   box-shadow: 24px 50px 60px rgba(0, 0, 0, 0.3); }
+
+.pequeña{
+    width: 200px; height: 200px;
+    align-items: center;
+      display:block;
+      margin:auto;
+  }
 
 .table {
   display: table; }
@@ -552,7 +562,7 @@ input {
       padding: 35px 0; } }
 
 .medium-padding120 {
-  padding: 120px 0; }
+  padding: 70px 0; }
   @media (max-width: 800px) {
     .medium-padding120 {
       padding: 35px 0; } }
@@ -684,6 +694,13 @@ input {
 .bg-greydark-color {
   background-color: #434141; }
 
+  .bg-boxed-pink {
+    background-image: url("../img/pattern-bg-rose.jpg"); }
+    .bg-boxed-green {
+      background-image: url("../img/pattern-bg-lime.jpg"); }
+      .bg-boxed-morado {
+        background-image: url("../img/pattern-bg-violet.jpg"); }
+
 .bg-boxed-dark {
   background-image: url("../img/bg-boxed-dark.jpg"); }
 
@@ -703,13 +720,16 @@ input {
   background-image: url("../img/bg-boxed-blue.jpg"); }
 
 .border-orange-color {
-  border-color: #fcb03b; }
+  border-color: #aeda00; }
 
 .border-green-color {
   border-color: #3cb878; }
+  .border-violet-color {
+    border-color: #e66cef; }
+ 
 
 .border-primary-color {
-  border-color: #4cc2c0; }
+  border-color: #f97308; }
 
 .border-secondary-color {
   border-color: #f15b26; }
