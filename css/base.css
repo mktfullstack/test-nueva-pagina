@@ -480,6 +480,13 @@ input {
       margin:auto;
   }
 
+  .grande{
+    width: 480px; height: 480px;
+    align-items: center;
+      display:block;
+      margin:auto;
+  }
+
 .table {
   display: table; }
 
