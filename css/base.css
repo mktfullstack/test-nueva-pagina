@@ -666,7 +666,7 @@ input {
   background-color: #9acd30; }
 
 .bg-orangedark-color {
-  background-color: #ff9700; }
+  background-color: #000000; }
 
 .bg-green-color {
   background-color: #3cb878; }
@@ -698,7 +698,7 @@ input {
   background-color: #99cc33; }
 
 .bg-yellow-color {
-  background-color: #99cc33; }
+  background-color: #fec500; }
 
 .bg-greydark-color {
   background-color: #434141; }
@@ -972,10 +972,10 @@ h6, .h6 {
     transition: all .3s ease; }
 
 .list--secondary a:hover, .list--secondary li:hover {
-  color: #f15b26; }
+  color: #99cc33; }
 
 .list--secondary i {
-  color: #f15b26; }
+  color: #99cc33; }
 
 .list--primary a:hover, .list--primary li:hover {
   color: #99cc33; }
