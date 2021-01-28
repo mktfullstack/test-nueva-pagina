@@ -4,7 +4,7 @@
 .seo-score {
   background-color: $heading-color;
   padding: 130px 0 200px;
-  position: sticky;
+  position: relative;
   overflow: hidden;
 
   @media (max-width: 640px) {
