@@ -686,7 +686,7 @@
 .main-slider {
   position: relative;
   cursor: pointer;
-  padding-bottom: 130px; }
+  padding-bottom: 0px; }
   .main-slider .swiper-slide {
     /* Center slide text vertically */
     display: -ms-flexbox;
