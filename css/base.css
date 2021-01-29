@@ -667,9 +667,15 @@ input {
 
 .bg-orangedark-color {
   background-color: #000000; }
+  
+  .bg-web-color {
+    background-color: #80be2d; }
+
+    .bg-mkt-color {
+      background-color: #f15b26; }
 
 .bg-green-color {
-  background-color: #3cb878; }
+  background-color: #e91d62; }
 
 .bg-greendark-color {
   background-color: #8dc63f; }
