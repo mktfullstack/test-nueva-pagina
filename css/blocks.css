@@ -1413,7 +1413,7 @@ body.author .blog-details-author {
     .servises-item {
       margin-bottom: 30px; } }
   .servises-item:hover {
-    background-color: #f7f9f9; }
+    background-color: #f7f9f900; }
     .servises-item:hover .servises-item__content .servises-text {
       color:#03091e; }
     .servises-item:hover .read-more i {

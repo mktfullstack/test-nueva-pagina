@@ -662,8 +662,13 @@ input {
 .bg-secondary-color {
   background-color: #ff8a0b; }
 
+  .bg-ligthnara-color {
+    background-color:#ff8a0b99; }
+
 .bg-orange-color {
   background-color: #9acd30; }
+  .bg-greenligth-color {
+    background-color: #9dcf3085; }
 
 .bg-orangedark-color {
   background-color: #000000; }
@@ -684,7 +689,10 @@ input {
   background-color: #fff; }
 
 .bg-violet-color {
-  background-color:#ff4080; }
+  background-color:#e91d62; }
+
+  .bg-violetligth-color {
+    background-color:#e91d62a3; }
 
 .bg-border-color {
   background-color: #f7f9f9; }
