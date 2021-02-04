@@ -1344,6 +1344,10 @@ body.author .blog-details-author {
 .stunning-header-bg-green {
   background-image: url("../img/pattern-bg-green.jpg"); }
 
+  .stunning-header-bg-moradito {
+    background-image: url("../img/stunning-header-bg2.png"); }
+
+
 .stunning-header-bg-olive {
   background-image: url("../img/pattern-bg-olive.jpg"); }
 
@@ -1352,7 +1356,11 @@ body.author .blog-details-author {
 
 .stunning-header-bg-rose {
   background-image: url("../img/pattern-bg-rose.jpg"); }
+  .stunning-header-bg-rose2 {
+    background-image: url("../img/stunning-header-bg3.png"); }
 
+    .stunning-header-bg-green2 {
+      background-image: url("../img/stunning-header-bg7.png"); }
 .stunning-header-bg-lightviolet {
   background-image: url("../img/pattern-bg-lightviolet.jpg"); }
 
@@ -1413,7 +1421,7 @@ body.author .blog-details-author {
     .servises-item {
       margin-bottom: 30px; } }
   .servises-item:hover {
-    background-color: #f7f9f900; }
+    background-color: #302c2d; }
     .servises-item:hover .servises-item__content .servises-text {
       color:#03091e; }
     .servises-item:hover .read-more i {
