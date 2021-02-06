@@ -1344,8 +1344,16 @@ body.author .blog-details-author {
 .stunning-header-bg-green {
   background-image: url("../img/pattern-bg-green.jpg"); }
 
+  .stunning-header-bg-rosado {
+    background-image: url("../img/stunning-header-bg3.png");
+  }
+
   .stunning-header-bg-moradito {
     background-image: url("../img/stunning-header-bg2.png"); }
+
+  .stunning-header-bg-rosita {
+    background-image: url("../img/stunning-header-bg3"); }
+
 
 
 .stunning-header-bg-olive {
