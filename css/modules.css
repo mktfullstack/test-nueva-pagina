@@ -2632,7 +2632,7 @@ body.overlay-enable:before {
   margin-left: auto;
   overflow: hidden; }
   .contacts .contacts-item .content .title {
-    font-size: 24px; }
+    font-size: 21px; }
     @media (max-width: 1024px) {
       .contacts .contacts-item .content .title {
         font-size: 13px; } }
@@ -4280,7 +4280,7 @@ Main Components
   text-align: center;
   padding: 25px;
   display: inline-block;
-  float: left;
+ 
   min-height: 80px; }
   @media (max-width: 1024px) {
     .socials-panel .socials-panel-item {

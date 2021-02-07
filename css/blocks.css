@@ -2539,7 +2539,6 @@ textarea {
 
 .range-slider--blue .irs-slider:before {
   background-color: #00bff3; }
-
 /*------------- #Styles for preloader --------------*/
 #hellopreloader {
   display: block;
@@ -2569,7 +2568,6 @@ textarea {
     color: #fff;
     font-size: 14px;
     text-align: center; }
-
 /*================= Responsive Mode ============*/
 @media (max-width: 480px) {
   .preloader .text {
